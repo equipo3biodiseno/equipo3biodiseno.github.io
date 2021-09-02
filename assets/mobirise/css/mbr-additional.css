@@ -3290,26 +3290,91 @@ a {
     padding: 4rem;
   }
 }
-.cid-sHJgJgjJnL {
-  background-image: url("../../../assets/images/background15.jpg");
+.cid-sHPdn5bKCp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-sHJgJgjJnL .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 1rem;
-  margin-right: .7rem;
+.cid-sHPdn5bKCp .card-wrapper {
+  background: #4479d9;
+  border-radius: 4px;
 }
-.cid-sHJgJgjJnL .social-row .soc-item .mbr-iconfont {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0.6rem;
-  border: 2px solid #232323;
-  transition: all 0.3s;
+@media (max-width: 767px) {
+  .cid-sHPdn5bKCp .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sHPdn5bKCp .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sHPdn5bKCp .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-sHPdn5bKCp .mbr-text,
+.cid-sHPdn5bKCp .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sHPdn5bKCp .card-title,
+.cid-sHPdn5bKCp .card-box {
+  text-align: left;
+}
+.cid-sHPfPNondt {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sHPfPNondt img,
+.cid-sHPfPNondt .item-img {
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-sHPfPNondt .item:focus,
+.cid-sHPfPNondt span:focus {
+  outline: none;
+}
+.cid-sHPfPNondt .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sHPfPNondt .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sHPfPNondt .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sHPfPNondt .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sHPfPNondt .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sHPfPNondt .mbr-section-title {
   color: #232323;
 }
-.cid-sHJgJgjJnL .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
-  color: #ffffff;
+.cid-sHPfPNondt .mbr-text,
+.cid-sHPfPNondt .mbr-section-btn {
+  text-align: left;
+}
+.cid-sHPfPNondt .item-title {
+  text-align: left;
+}
+.cid-sHPfPNondt .item-subtitle {
+  text-align: left;
+  color: #232323;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
