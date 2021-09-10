@@ -5735,8 +5735,18 @@ a {
     left: -1rem;
   }
 }
-.cid-sIfFOgconE {
-  background-image: url("../../../assets/images/background6.jpg");
+.cid-sIDrY32b6V {
+  background-color: #9fdbf8;
+}
+.cid-sIDrY32b6V .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sIDrY32b6V .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
 }
 .cid-sIrVFY17t6 {
   padding-top: 6rem;
