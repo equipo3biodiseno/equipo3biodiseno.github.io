@@ -6628,16 +6628,20 @@ a {
 .cid-sJX4ZueENr .card-title {
   color: #000000;
 }
-.cid-sJX8RbW0l1 {
-  padding-top: 5rem;
+.cid-sK45CbXzWS {
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sJX8RbW0l1 .line {
-  background-color: #6592e6;
+.cid-sK45CbXzWS .line {
+  background-color: #5000ff;
   align: center;
   height: 2px;
   margin: 0 auto;
+  opacity: 0.9;
+}
+.cid-sK45CbXzWS .mbr-text {
+  text-align: justify;
 }
 .cid-sJX9NiID3R {
   padding-top: 5rem;
@@ -6748,6 +6752,19 @@ a {
 }
 .cid-sJXamixG03 .mbr-section-title {
   color: #4479d9;
+}
+.cid-sK45R8sX4b {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sK45R8sX4b .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sK45R8sX4b .mbr-section-title,
+.cid-sK45R8sX4b .mbr-section-subtitle,
+.cid-sK45R8sX4b .mbr-text {
+  text-align: center;
 }
 .cid-sJGXuEoKlI {
   padding-top: 6rem;
