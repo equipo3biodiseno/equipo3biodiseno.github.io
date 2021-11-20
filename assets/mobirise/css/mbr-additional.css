@@ -8388,11 +8388,6 @@ a {
 .cid-sPfNFnpOiG .mbr-section-title {
   color: #4479d9;
 }
-.cid-sPgwJhtNr9 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-sPll91lIGa .hidden {
   display: none;
 }
@@ -8420,4 +8415,9 @@ a {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+}
+.cid-sPgwJhtNr9 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
