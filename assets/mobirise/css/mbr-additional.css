@@ -1318,6 +1318,22 @@ a {
 .cid-sRHBQHv8BV img {
   width: 100%;
 }
+.cid-sRIaNnk3If {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #fff0b0;
+}
+.cid-sRIaNnk3If .mbr-section-title,
+.cid-sRIaNnk3If .mbr-text,
+.cid-sRIaNnk3If .mbr-section-btn {
+  text-align: center;
+}
+.cid-sRIaNnk3If .video-wrapper {
+  margin: auto;
+}
+.cid-sRIaNnk3If .video-wrapper iframe {
+  width: 100%;
+}
 .cid-sRHI0GFbu9 {
   background-image: url("../../../assets/images/orange-and-white-face-mask-management-events-and-special-interest-presentation-7-1920x1080.png");
 }
